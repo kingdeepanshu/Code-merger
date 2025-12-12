@@ -1,0 +1,5 @@
+{
+  "name": "CodeMerger",
+  "description": "A developer utility to merge multiple code files into a single text file for easier sharing or LLM context injection.",
+  "requestFramePermissions": []
+}
